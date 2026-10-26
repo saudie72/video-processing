@@ -1,0 +1,10 @@
+# Videos the notebook generates or downloads (re-created by running it)
+race_car.mp4
+race_car_slow_motion.mp4
+race_car_gray.avi
+falls_slow*.mp4
+falls_normal*.mp4
+falls_fast*.mp4
+falls.mp4
+.ipynb_checkpoints/
+__pycache__/
